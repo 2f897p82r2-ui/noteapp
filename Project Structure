@@ -1,9 +1,0 @@
-SimpleNotesApp/
-├── SimpleNotesApp/
-│   ├── ContentView.swift
-│   ├── Note.swift
-│   └── NotesViewModel.swift
-├── Assets.xcassets/
-│   └── AppIcon.appiconset/
-├── Info.plist
-└── AppDelegate.swift
